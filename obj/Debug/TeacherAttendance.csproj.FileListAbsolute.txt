@@ -1,0 +1,38 @@
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.csprojResolveAssemblyReference.cache
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.Cache
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.csprojResolveAssemblyReference.cache
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\هيثم محمد\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.Cache
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.CoreCompileInputs.cache
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\elashheb\Desktop\New folder\2\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
